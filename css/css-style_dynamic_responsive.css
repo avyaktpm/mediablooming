@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1024px){
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+h1 { font-size: 77px;}h2 { font-size: 57px;}h3 { font-size: 37px;}}
+
+@media only screen and (min-width: 681px) and (max-width: 768px){
+}
+
+@media only screen and (max-width: 680px){
+h1 { font-size: 55px;}h2 { font-size: 40px;}h3 { font-size: 25px;}h4 { font-size: 20px;}.error404 .qodef-page-not-found .qodef-404-subtitle { font-size: 45px;line-height: 53px;}}
