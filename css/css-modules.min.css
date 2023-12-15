@@ -23974,7 +23974,8 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
     padding: 13px 42px;
     font-size: 15px;
     line-height: 25px;
-    cursor: pointer
+    cursor: pointer;
+    border-radius: 30px; /* You can adjust the value to control the roundness */
 }
 
 .qodef-btn:hover {
